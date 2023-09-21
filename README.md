@@ -17,7 +17,7 @@ A progressive web application (PWA) that allows you to edit text. This applicati
 ## Installation Locally
 1. type npm i in the CLI
 2. type npm run start in the CLI
-please note: you will need mini css extract plugin and webpack npm
+3. please note: you will need mini css extract plugin and webpack npm
 
 ## Usage
 
