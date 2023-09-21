@@ -22,7 +22,7 @@ please note: you will need mini css extract plugin and webpack npm
 ## Usage
 
 Live deployed application on Heroku:
-<!-- https://guarded-depths-74082-8f2fc31416d3.herokuapp.com/ -->
+https://braydens-text-editor-e4fcf33641c7.herokuapp.com/
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
